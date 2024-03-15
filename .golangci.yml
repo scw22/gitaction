@@ -1,5 +1,0 @@
-linters-settings:
-  golint:
-    enabled: true
-  deadcode:
-    enabled: true
